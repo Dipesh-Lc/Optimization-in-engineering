@@ -53,7 +53,7 @@ Two approaches are implemented:
 - Normalized weighted-sum scalarization (SLSQP)
 - NSGA-II (pymoo)
 
-![Pareto Front](docs/figures/moo_column/pareto.png)
+![Pareto Front](docs/figures/moo_column/Pareto.png)
 
 ---
 
