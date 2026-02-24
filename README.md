@@ -4,7 +4,7 @@ It implements linear, nonlinear, and multi-objective optimization models derived
 
 ---
 
-## 🔍 Overview
+##  Overview
 
 Four engineering optimization case studies are included:
 
@@ -24,7 +24,7 @@ The focus is on:
 
 ---
 
-## 🛠 Technical Stack
+##  Technical Stack
 
 - Python 3.12  
 - NumPy  
@@ -34,7 +34,7 @@ The focus is on:
 - MATLAB
 ---
 
-## 📐 Problems Implemented
+##  Problems Implemented
 
 ### Linear Programming – Scaffolding
 Maximization of load capacity subject to tension constraints.
@@ -57,7 +57,7 @@ Two approaches are implemented:
 
 ---
 
-## 📊 Key Observations
+##  Key Observations
 
 - Optimal solutions lie on active constraint boundaries.
 - Scaling influences convergence behavior in SLSQP.
